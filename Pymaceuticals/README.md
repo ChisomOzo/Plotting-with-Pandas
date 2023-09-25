@@ -1,0 +1,3 @@
+# Plotting-with-Pandas
+This is assignment is about the experiment done on mouse with different reaction to drugs. Drugs such as Propriva, Placebo, Naftisol, Ketapril	and Infubinol have a very big effect on the mouse. Those drugs had a huge impact based on the mean, and standard variance that were calculated. The most druga ministered during the time point was the Capomulin and the Ramicane. 
+There is a linear regression based on the amount of drug each mouse takes.The more time the drugs are ministered and how frequent they take it affect the tumor volume of the each mouse. 
